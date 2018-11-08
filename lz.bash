@@ -1,4 +1,4 @@
-apt install libboost-program-options-dev libboost-filesystem-dev libqt5core5a
+apt install libboost-program-options-dev libqt5core5a
 pip install gdown
 wget https://docs.google.com/uc?id=1jyN9nJhkKP1jxXJvXVFCDMItLc8IX6cF -O validation
 wget https://docs.google.com/uc?id=1fOPOEJvqu1mRql5BzOKJtZpOlWlOmX3E -O leelaz
