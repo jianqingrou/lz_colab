@@ -10,4 +10,4 @@ mkdir ~/.local/share/leela-zero
 mv leelaz_opencl_tuning  ~/.local/share/leela-zero
 chmod +x leelaz
 chmod +x autogtp
-./autogtp -k
+./autogtp -k ooooo
