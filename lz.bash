@@ -8,6 +8,5 @@ gdown --id '1TEMOiuxsmJwsSrXhXgTER7jQnPqOZt12' -O 'efa2fefd122cb212b990cadcd6cb0
 mkdir networks && mv *.gz networks
 mkdir ~/.local/share/leela-zero
 mv leelaz_opencl_tuning  ~/.local/share/leela-zero
-chmod +x leelaz
-chmod +x autogtp
+chmod +x *
 ./autogtp -k sgf
